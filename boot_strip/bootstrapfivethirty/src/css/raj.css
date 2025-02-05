@@ -1,0 +1,28 @@
+
+
+#header
+{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    color: rgb(234, 53, 8);
+}
+
+#footer
+{
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid rgb(96, 96, 254);
+}
+
+#productShow
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.proImage
+{
+    margin: 5px;
+}
