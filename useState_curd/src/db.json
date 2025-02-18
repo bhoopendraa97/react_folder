@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "raj",
+      "rollno": 121,
+      "city": "chhatarpur",
+      "fees": 23000
+    },
+    {
+      "id": "efa9",
+      "rollno": "213",
+      "name": "Bhopendra",
+      "city": "chhatarpur",
+      "fees": "20000"
+    }
+  ]
+}
